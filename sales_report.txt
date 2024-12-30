@@ -1,0 +1,9 @@
+SALES REPORT
+============
+
+Date       | Medicine Name      | Quantity | Amount
+-----------------------------------------------
+2024-12-19 | medo abc         |       40 | $ 2400.00
+-----------------------------------------------
+Total Items Sold: 40
+Total Sales: $2400.00

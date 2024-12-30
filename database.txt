@@ -1,0 +1,23 @@
+kalist 	40.00 	30
+parasitamol 	2.00 	17
+oromisine 	60.00 	30
+endolam 	88.00 	10
+dolopran 	40.00 	39
+barlam 	77.00 	100
+dikatrine 	40.00 	22
+mips 	4.00 	90
+dolipran 	15.00 	5
+rolimedo abc 	45.00 	40
+emend 	27.00 	50
+janumet 	50.00 	183
+mg 	39.00 	15
+keytruda 	437.00 	5
+travafenix 	250.00 	8
+synagis 	33.00 	22
+tecentriq 	698.00 	3
+vicardi 	80.00 	13
+jadenu 	180.00 	8
+sopradine 	47.00 	35
+roslib 	50.00 	100
+mamdil 	40.00 	100
+0.00 	0.00 	0

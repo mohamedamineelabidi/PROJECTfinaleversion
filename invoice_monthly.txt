@@ -1,0 +1,8 @@
+Medicine: rolixam, Quantity Sold: 40, Total Price: 1800.00
+Medicine: emend, Quantity Sold: 5, Total Price: 135.00
+Medicine: mg, Quantity Sold: 3, Total Price: 117.00
+Medicine: mg, Quantity Sold: 3, Total Price: 117.00
+Medicine: kalist, Quantity Sold: 10, Total Price: 400.00
+Medicine: synagis, Quantity Sold: 3, Total Price: 99.00
+Medicine: sopradine, Quantity Sold: 4, Total Price: 188.00
+Medicine: mamdil, Quantity Sold: 50, Total Price: 2000.00
